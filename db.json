@@ -204,7 +204,277 @@
         "nombre": "Piñata de Sonic",
         "precio": 2000,
         "imagenes": [
-          "https://i.postimg.cc/4yQYfghf/Whats-App-Image-2024-01-22-at-2-55-28-PM.jpg"
+          "https://i.postimg.cc/4yQYfghf/Whats-App-Image-2024-01-22-at-2-55-28-PM.jpg","https://i.postimg.cc/qMBRsW-3K/P1020040.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 24,
+        "serie": "LOL",
+        "nombre": "Piñata de LOL Unicornio",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/3Rpyqp8D/Whats-App-Image-2024-01-22-at-2-55-28-PM-1.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 25,
+        "serie": "Plim Pilm",
+        "nombre": "Piñata de Plim Plim",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/nz8rqz4V/Whats-App-Image-2024-01-22-at-2-55-32-PM-2.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 26,
+        "serie": "Mario",
+        "nombre": "Piñata de Mario y Luigi",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/nz8rqz4V/Whats-App-Image-2024-01-22-at-2-55-32-PM-2.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 27,
+        "serie": "Super Heroes",
+        "nombre": "Piñata de Iron-Man",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/nz8rqz4V/Whats-App-Image-2024-01-22-at-2-55-32-PM-2.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 28,
+        "serie": "Roblox",
+        "nombre": "Piñata de Roblox",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/x85dr3Wq/Whats-App-Image-2024-01-22-at-2-55-33-PM.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 29,
+        "serie": "Peppa pig",
+        "nombre": "Piñata de Peppa",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/dt9Cv882/Whats-App-Image-2020-08-29-at-4-58-02-PM.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 30,
+        "serie": "Dinosaurio",
+        "nombre": "Piñata de T-rex",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/90h4HM0g/Whats-App-Image-2024-01-22-at-2-55-28-PM-2.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 31,
+        "serie": "Frozen",
+        "nombre": "Piñata de Elsa",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/prW2Bnpv/P1020039.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 32,
+        "serie": "Lluvia de amor",
+        "nombre": "Piñata de Lluvia de amor",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/m2W3TLKs/P1020035.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 33,
+        "serie": "Cumpleaños",
+        "nombre": "Piñata de 18 años",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/y8zLpX70/P1020030.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 34,
+        "serie": "Jovenes Titánes",
+        "nombre": "Piñata de Los Jovenes Titánes",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/y8zLpX70/P1020030.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 35,
+        "serie": "Fortnite",
+        "nombre": "Piñata de Fortnite",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/mZJ9gX9G/P1020028.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 36,
+        "serie": "Fútbol",
+        "nombre": "Piñata de Lanús",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/YCjTzS9F/20211126-085020.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 37,
+        "serie": "Mickey Mouse",
+        "nombre": "Piñata de Minnie Roja",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/JndkJKdZ/P1020027.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 38,
+        "serie": "Vampirina",
+        "nombre": "Piñata de Vampirina",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/WzFJ7rQK/P1020026.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 39,
+        "serie": "Animalitos",
+        "nombre": "Piñata de Animalitos de la selva",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/13pwTGf1/P1020025.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 40,
+        "serie": "Paw Patrol",
+        "nombre": "Piñata de Marshall",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/MGqV8nQM/P1020023.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 41,
+        "serie": "Cars",
+        "nombre": "Piñata del Rayo McQueen",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/MGqV8nQM/P1020023.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 42,
+        "serie": "Zenom",
+        "nombre": "Piñata de la granja de Zenom",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/sXKJLpHg/P1020019.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 43,
+        "serie": "Cumpleaños",
+        "nombre": "Piñata 15 años",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/sXKJLpHg/P1020019.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 44,
+        "serie": "Fútbol",
+        "nombre": "Piñata de Bandfield",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/x1CVpRsc/20211126-084815.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 45,
+        "serie": "Fútbol",
+        "nombre": "Piñata de San Lorenzo",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/8CfQNCgG/20211126-084847.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 46,
+        "serie": "Fútbol",
+        "nombre": "Piñata de Los Andes",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/pT8HYLsC/20211126-084639.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 47,
+        "serie": "Pocoyo",
+        "nombre": "Piñata de Pocoyo",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/hGv4xgFZ/20211112-081244.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 48,
+        "serie": "LadyBug",
+        "nombre": "Piñata de Ladybug",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/dVqVsr5Y/20211112-081222.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 49,
+        "serie": "Corona",
+        "nombre": "Piñata de Corona Rosa",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/fT7bQBjC/20211112-081157.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 50,
+        "serie": "Paw Patrol",
+        "nombre": "Piñata de Chase",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/XJTv4PzH/20211112-080957.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 51,
+        "serie": "SuperHeroe",
+        "nombre": "Piñata de Batman",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/YSC03YF3/20211112-080926.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 52,
+        "serie": "Fútbol",
+        "nombre": "Piñata de Boca",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/fytMPvWc/20211112-080252.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
+      },{
+        "id": 53,
+        "serie": "Fútbol",
+        "nombre": "Piñata de Pelota",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/QtnXSzDN/20211112-080353.jpg"
         ],
         "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, algunos componentes de la piñata y adornos de la piñata están en relieve provocando un efecto 3D."
       }
