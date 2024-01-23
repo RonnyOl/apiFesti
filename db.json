@@ -809,6 +809,15 @@
           "https://i.postimg.cc/wMrJVjWW/Whats-App-Image-2024-01-23-at-11-21-13-AM-2.jpg", "https://i.postimg.cc/tJJWWxzZ/Whats-App-Image-2024-01-23-at-11-21-13-AM-1.jpg"
         ],
         "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, su base es circulares"
+      },{
+        "id": 118,
+        "serie": "Sirenita",
+        "nombre": "Piñata de Ariel Hexagonal",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/mDY0cwYj/Sin-t-tulo-1.jpg", "https://i.postimg.cc/P5Ns61Hf/Sin-t-tulo.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, su base es circulares"
       }
     ],
     "pinatasFiguras": [
@@ -819,6 +828,24 @@
         "precio": 2000,
         "imagenes": [
           "https://i.postimg.cc/kg3w3TcT/Whats-App-Image-2024-01-23-at-11-21-16-AM.jpg", "https://i.postimg.cc/RVnGDkc3/Whats-App-Image-2024-01-23-at-11-21-15-AM.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, su base es circulares"
+      },{
+        "id": 116,
+        "serie": "Mario",
+        "nombre": "Piñata completa de Mario",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/tTv4cpc8/20140404-103457.jpg"
+        ],
+        "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, su base es circulares"
+      },{
+        "id": 117,
+        "serie": "Mickey Mouse",
+        "nombre": "Piñata completa de Mickey",
+        "precio": 2000,
+        "imagenes": [
+          "https://i.postimg.cc/3JmDk0VR/20140404-103606.jpg"
         ],
         "descripcion": "Piñata de telgopor densidad 20, rígido totalmente pintado a mano y aerografeado, su base es circulares"
       }
