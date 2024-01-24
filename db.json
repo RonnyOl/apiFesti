@@ -1069,7 +1069,7 @@
         "imagenes": [
           "https://i.postimg.cc/9QfjnYLD/20201010-064158.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },{
         "id": 109,
         "serie": "Lluvia de amor",
@@ -1078,7 +1078,7 @@
         "imagenes": [
           "https://i.postimg.cc/j2rb3V1T/20201013-164607.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },{
         "id": 110,
         "serie": "Plantas vs Zombies",
@@ -1087,7 +1087,7 @@
         "imagenes": [
           "https://i.postimg.cc/GhqWGsbd/20201013-170731.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },{
         "id": 111,
         "serie": "Minecraft",
@@ -1096,7 +1096,7 @@
         "imagenes": [
           "https://i.postimg.cc/g2jfDk0R/20201013-180102.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },
       {
         "id": 112,
@@ -1106,7 +1106,7 @@
         "imagenes": [
           "https://i.postimg.cc/rFV6D9Xf/20201013-181723.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },
       {
         "id": 113,
@@ -1116,7 +1116,7 @@
         "imagenes": [
           "https://i.postimg.cc/d1CF9Q4n/20201013-182445.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },{
         "id": 114,
         "serie": "Egresados",
@@ -1125,7 +1125,7 @@
         "imagenes": [
           "https://i.postimg.cc/C5KNg5Xs/20201123-213001.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       },{
         "id": 115,
         "serie": "Sirenita",
@@ -1134,7 +1134,115 @@
         "imagenes": [
           "https://i.postimg.cc/2SW-xmPcM/20201123-215938.jpg"
         ],
-        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo"
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 119,
+        "serie": "Paw patrol",
+        "nombre": "Pinche de Marshall",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/QN7RW1my/20211003-160529.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 120,
+        "serie": "Paw patrol",
+        "nombre": "Pinche de Skye",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/529P2CjT/66718468219.png"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 121,
+        "serie": "Mickey mouse",
+        "nombre": "Pinche de Mickey",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/d3FnCkQb/20211003-183742.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 122,
+        "serie": "Fútbol",
+        "nombre": "Pinche de River Plate",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/VN3KYZxL/20211003-181859.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 123,
+        "serie": "Mickey mouse",
+        "nombre": "Pinche de Minnie Roja",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/g22S4Zyd/20211003-180450.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 124,
+        "serie": "Fútbol",
+        "nombre": "Pinche de Boca Juniors",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/HspBsyh5/20211003-191104.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 125,
+        "serie": "SuperHeroe",
+        "nombre": "Pinche de Capitan América",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/mDC8hN43/20211003-183627.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 126,
+        "serie": "SuperHeroe",
+        "nombre": "Pinche de Iron-man",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/y6hLHPvs/20211003-184704.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 127,
+        "serie": "Dragon Ball",
+        "nombre": "Pinche de Goku",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/8zfW1kNM/20211003-194923.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 128,
+        "serie": "Naruto",
+        "nombre": "Pinche de Naruto",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/y6Ty5N8N/20211003-192443.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 129,
+        "serie": "Sonic",
+        "nombre": "Pinche de Sonic",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/gc43sBgX/20211003-193432.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
+      },{
+        "id": 130,
+        "serie": "Dinosaurio",
+        "nombre": "Pinche de Dinosaurio",
+        "precio": 1800,
+        "imagenes": [
+          "https://i.postimg.cc/hv8yZ834/20211003-175850.jpg"
+        ],
+        "descripcion": "Pinches con figura principal y 4 accesorios referentes al motivo, Perfecto para decorar una torta"
       }
     ]
   
