@@ -751,10 +751,46 @@
       },{
         "id": 61,
         "serie": "Paw Patrol",
-        "nombre": "Piñata circular de Skye",
+        "nombre": "Piñata con silueta de Skye",
         "precio": 4600,
         "imagenes": [
           "https://i.postimg.cc/kgtsLQ9n/Whats-App-Image-2024-01-22-at-3-13-40-PM-2.jpg", "https://i.postimg.cc/HLDzmrsb/Whats-App-Image-2024-01-22-at-3-13-40-PM.jpg"
+        ],
+        "descripcion": "Piñatas de telgopor de alta densidad, sus laterales tomán color del patrón de la figura, sus medidas son 33x33cm, totalmente pintado a mano y aerografeado, con detalles en relieve dando un efecto 3D."
+      },{
+        "id": 131,
+        "serie": "Barbie",
+        "nombre": "Piñata con silueta de Barbie",
+        "precio": null,
+        "imagenes": [
+          "https://i.postimg.cc/x1sBN4NH/Sin-t-tulo.jpg"
+        ],
+        "descripcion": "Piñatas de telgopor de alta densidad, sus laterales tomán color del patrón de la figura, sus medidas son 33x33cm, totalmente pintado a mano y aerografeado, con detalles en relieve dando un efecto 3D."
+      },{
+        "id": 132,
+        "serie": "Sirenita",
+        "nombre": "Piñata con silueta de la Sirenita",
+        "precio": null,
+        "imagenes": [
+          "https://i.postimg.cc/RFxdW7dK/Sin-t-tulo.jpg"
+        ],
+        "descripcion": "Piñatas de telgopor de alta densidad, sus laterales tomán color del patrón de la figura, sus medidas son 33x33cm, totalmente pintado a mano y aerografeado, con detalles en relieve dando un efecto 3D."
+      },{
+        "id": 133,
+        "serie": "Dinosaurio",
+        "nombre": "Piñata con silueta de Dinosaurio",
+        "precio": null,
+        "imagenes": [
+          "https://i.postimg.cc/rpXxj84L/Sin-t-tulo.jpg"
+        ],
+        "descripcion": "Piñatas de telgopor de alta densidad, sus laterales tomán color del patrón de la figura, sus medidas son 33x33cm, totalmente pintado a mano y aerografeado, con detalles en relieve dando un efecto 3D."
+      },{
+        "id": 134,
+        "serie": "Cumpleaños",
+        "nombre": "Piñata con silueta de un añito",
+        "precio": null,
+        "imagenes": [
+          "https://i.postimg.cc/FFgWJB2R/Sin-t-tulo.jpg"
         ],
         "descripcion": "Piñatas de telgopor de alta densidad, sus laterales tomán color del patrón de la figura, sus medidas son 33x33cm, totalmente pintado a mano y aerografeado, con detalles en relieve dando un efecto 3D."
       }
